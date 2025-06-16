@@ -1,0 +1,1 @@
+# kicad-pcbnew-auto-ruleare
